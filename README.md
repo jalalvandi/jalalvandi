@@ -1,16 +1,24 @@
-## Hi there 👋
+````markdown name=README.md
+# Introduction
 
-<!--
-**jalalvandi/jalalvandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am Sina Jalalvandi.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a programmer specialized in the following languages:
+- Python
+- Go
+- PHP
+- JavaScript
+
+## Interests
+
+I am interested in working on fun and practical projects and always looking to learn and experience new things.
+
+## Contact Me
+
+You can reach out to me via email or through the following social networks:
+- Email: jalalvandi.sina[at]gmail
+- website: [sinajalalvandi.ir](https://sinajalalvandi.ir)
+-X: [@sinajalalvandi](https://x.com/sinajalalvandi)
+````
