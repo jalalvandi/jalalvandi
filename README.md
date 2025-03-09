@@ -7,7 +7,7 @@ Hi! I am Sina Jalalvandi.
 
 I am a programmer specialized in the following languages:
 - Python
-- Go
+- RUST
 - PHP
 - JavaScript
 
