@@ -13,7 +13,7 @@ I am a programmer specialized in the following languages:
 
 ## Interests
 
-I am interested in working on fun and practical projects and always looking to learn and experience new things.
+I am interested in working on Terminal Based and practical projects and always looking to learn and experience new things.
 
 ## Contact Me
 
