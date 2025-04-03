@@ -20,4 +20,4 @@ You can reach out to me via email or through the following social networks:
 - Email: jalalvandi.sina[at]gmail
 - website: [sinajalalvandi.ir](https://sinajalalvandi.ir)
 - X: [@sinajalalvandi](https://x.com/sinajalalvandi)
-````
+
